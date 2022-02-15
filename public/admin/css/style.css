@@ -1,0 +1,35 @@
+
+
+
+
+.bor
+{
+    border:1px solid #e3e3e3;
+}
+
+
+input[type="file"] {
+    display: none;
+}
+.custom-file-upload {
+    border: 1px solid #ccc;
+    display: inline-block;
+    padding: 6px 40px;
+    cursor: pointer;
+    /*margin-left: 3px;*/
+    margin:0px 15px;
+}
+
+.page-500
+{
+    text-align: center;
+    color: red;
+}
+
+.page-500 h1
+{
+    color: red;
+    font-weight: bold;
+    font-size: 100px;
+}
+
